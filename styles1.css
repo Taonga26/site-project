@@ -6,7 +6,7 @@
 /* what we supply styles*/
 
 .hero{
-    background-image:url(./img/mark5.5.png);
+    background-image:url(./mark5.5.png);
     background-size: cover;
     background-repeat: no-repeat;
     height: 50vh;
@@ -34,7 +34,7 @@ strong{
 }
 
 .supply2{
-    background-image: url(./img/Un9.png);
+    background-image: url(./Un9.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -92,7 +92,7 @@ strong{
     min-width: 200px;
 }
 .note{
-    background-image: url(./img/Un9.png);
+    background-image: url(./Un9.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -110,7 +110,7 @@ strong{
     font-size: 1rem;
 }
 .services{
-    background-image: url(./img/Un9.png);
+    background-image: url(./Un9.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -153,7 +153,7 @@ strong{
 
 }
 .background{
-    background-image: url(./img/Un9.png);
+    background-image: url(./Un9.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -177,7 +177,7 @@ strong{
     color: aliceblue;
 }
 .compliance section{
-    background-image: url(./img/Un9.png);
+    background-image: url(./Un9.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding: 20px 0;
