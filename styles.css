@@ -63,7 +63,7 @@ section h2 {
 
 /* Content Section Styles */
 .content {
-    background-image: url(./benja/Untitled Project1.jpg);
+    background-image: url(./Untitled\ Project1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -73,7 +73,7 @@ section h2 {
 /* Introduction Section Styles */
 .introduction {
     background-color: cadetblue;
-    background-image: url(./img/mark4.png);
+    background-image: url(./mark4.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: scroll;
