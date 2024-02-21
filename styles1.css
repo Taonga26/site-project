@@ -195,7 +195,7 @@ html {
 /*media Queries*/
 
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 500px) {
     .title1{
         font-size: 2.5rem;
         padding: 10px 0;
@@ -256,12 +256,16 @@ html {
         margin-right: 2rem;
     }
     .tech h4{
-        color: aliceblue;
+        
         font-size: 1rem;
     }
     .tech li{
         padding: 2px 0;
     }
+    .title h3{
+        font-size: 1.5rem;
+    }
+    
     
     /*Compliance*/
     .compliance .one .title{
@@ -279,6 +283,39 @@ html {
         font-size: 1.5rem;
     }
 }
+@media (orientation: portrait) and (min-height: 960px) and (max-width: 768px) {
+    .hero .title{
+        bottom: -81%;
+        padding: 1.5rem 0;
+        min-width: 310px;
+    }
+    .navigation{
+        width: 300px;
+    }
+    .hero .title h3{
+        
+        padding-left: 1rem;
+    }
+    .note img{
+        max-width: 500px
+    }
+    .services p {
+        font-size: 1.5rem;
+    }
+    .equipment p{
+        font-size: 1.3rem;
+    }
+    .supply2 p, .supply2 article strong, .supply2 article li, li{
+        font-size: 1.3rem;
+    }
+    .supply strong{
+        font-size: 1.5rem;
+    } 
+    .tech {
+        margin-right: 1rem;
+    }
+}
+
 @media screen and (max-width: 768px) {
     .cars img{
         width: 100%;
