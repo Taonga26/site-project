@@ -278,11 +278,7 @@ html {
         font-size: 1rem;
     }
 }
-@media(max-width: 520px){
-    .title h3{
-        font-size: 1.5rem;
-    }
-}
+
 @media (orientation: portrait) and (min-height: 960px) and (max-width: 768px) {
     .hero .title{
         bottom: -81%;
