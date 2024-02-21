@@ -267,7 +267,18 @@ body::-webkit-scrollbar-thumb:hover {
     }
     
 }
-
+@media (orientation: portrait) and (min-height: 960px) and (max-width: 768px) {
+    .intro{
+        padding: 5px 10px 0 0;
+    }
+    .intro p{
+        font-size: 1.6rem
+    }
+    .navigation{
+        width: 300px;
+        right: -400px
+    }
+}
 @media screen and (max-width: 768px) {
     /* Adjust header and navigation for smaller screens */
     .navigation{
